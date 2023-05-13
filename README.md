@@ -1,6 +1,6 @@
-Projeto Calculadora de IMC
+Projeto Calculadora de IMC do Dio
 
-Este é um projeto simples que desenvolvi usando Dart para calcular o Índice de Massa Corporal (IMC) de uma pessoa. O IMC é uma medida amplamente reconhecida internacionalmente, usada para avaliar se uma pessoa está em um peso saudável para sua altura.
+Este é um projeto simples que desenvolvi para o curso de especialista em flutter da Dio. Objetivo é usar o Dart para calcular o Índice de Massa Corporal (IMC) de uma pessoa. O IMC é uma medida amplamente reconhecida internacionalmente, usada para avaliar se uma pessoa está em um peso saudável para sua altura.
 Minha Jornada
 
 No início desta jornada, tive que aprender a instalar e configurar o Dart SDK e o Flutter no Ubuntu. Isso envolveu aprender a usar o terminal para instalar pacotes, configurar variáveis de ambiente e criar projetos Dart.
