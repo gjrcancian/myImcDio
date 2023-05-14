@@ -7,4 +7,3 @@ Para faze-lo, tive que aprender a instalar e configurar o Flutter no Ubuntu, bem
 
 Fui capaz de transformar o script original que coletava o peso e a altura do usuário através do terminal em uma aplicação completa, com campos de entrada para o peso e a altura do usuário, e um botão para calcular o IMC. A aplicação agora exibe o resultado e
 a avaliação da condição física da pessoa com base no IMC diretamente na interface.
-git remote add origin https://github.com/gjrcancian/myImcDio
